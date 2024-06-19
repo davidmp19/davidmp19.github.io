@@ -1,7 +1,4 @@
 # David Menéndez Putteman
-Estudiante de Desarrollo de Aplicaciones Web | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
-
-![David Menéndez Putteman](img/yo.png)
 
 ## Resumen
 Como estudiante de desarrollo de aplicaciones web, busco una posición en la que pueda aplicar mis conocimientos y habilidades para diseñar y desarrollar soluciones web innovadoras. Estoy comprometido con el aprendizaje continuo y emocionado por la oportunidad de trabajar en proyectos desafiantes.
