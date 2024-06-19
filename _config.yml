@@ -1,14 +1,6 @@
-title: David Menéndez Putteman  # You can add your name here
-
-logo: img/yo.png  
-
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
-
-show_downloads: false # Fix spelling
-
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-email: youremail@gmail.com # Allow visitors to contact you
+title: David Menéndez Putteman
+logo: img/yo.png
+description: Desarrollador de aplicaciones web.
+show_downloads: false
+theme: jekyll-theme-minimal
+email: davidmenendezp@hotmail.com
