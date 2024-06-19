@@ -1,35 +1,58 @@
-# Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+# David Menéndez Putteman
+Estudiante de Desarrollo de Aplicaciones Web | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
-## Summary
-1-2 sentences summarizing your professional experience and expertise
+## Resumen
+Como estudiante de desarrollo de aplicaciones web, busco una posición en la que pueda aplicar mis conocimientos y habilidades para diseñar y desarrollar soluciones web innovadoras. Estoy comprometido con el aprendizaje continuo y emocionado por la oportunidad de trabajar en proyectos desafiantes.
 
-## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+## Habilidades
+- **Lenguajes de Programación:** JavaScript, Java
+- **Frameworks Web:** React, Springboot
+- **Bases de Datos:** MySQL, SQL
+- **Herramientas y Métodos:** Git, Eclipse, Visual Studio, SpringTool, MySQL Workbench
+- **Otros:** CSS, HTML
 
-## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+## Experiencia
+**I.E.S Doctor Fleming** (2021 - Actualmente)  
+Desarrollo de Aplicaciones Web
+- Conocimiento de React, JavaScript, CSS, HTML, Java, Springboot, SQL
+- Uso de IDEs como Eclipse, Visual Studio, MySQL Workbench, SpringTool
+- Control de versiones con Git
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
+**El Taller de Balbi** (Abr 2019 - May 2019)  
+Prácticas en Taller de Coches
+- Aprendizaje de procedimientos de seguridad en el taller
+- Colaboración en el montaje y desmontaje de piezas
+- Interacción con clientes para comprender sus necesidades y proporcionar servicio al cliente
+- Adquisición de habilidades en el uso de herramientas y conocimiento de sistemas automotrices
 
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
+## Proyectos
+**Proyecto 1** ([link al proyecto o repositorio GitHub])
+- Descripción de la tecnología utilizada y en qué consistió el proyecto
+- Logro o resultado alcanzado
 
-**Project 2** (link)
-- Description 
-- Accomplishment
+**Proyecto 2** ([link al proyecto o repositorio GitHub])
+- Descripción de la tecnología utilizada y en qué consistió el proyecto
+- Logro o resultado alcanzado
 
-## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+## Educación
+**Grado Superior en Desarrollo de Aplicaciones Web** | I.E.S Doctor Fleming | Oviedo, Asturias, España (2021 - Actualmente)
+
+**Bachillerato Científico-Tecnológico y Realización de la EBAU (2021)** | I.E.S Rey Pelayo | Cangas de Onís, Asturias, España (Sep 2019 - Jun 2021)
+
+## Idiomas
+- **Español:** Nativo
+- **Inglés:** Intermedio (B1)
+
+## Información de Contacto
+- **Email:** davidmenendezp@hotmail.com
+- **Dirección:** Barrio Cangas de Arriba, 59, 33550, Cangas de Onís, Asturias, España
+- **Teléfono:** 626367722
+- **Fecha de nacimiento:** 27 Mar, 2003
+- **Nacionalidad:** Española
+
+## Otros
+- **Actitud positiva**
+- **Buena capacidad de trabajo en equipo**
+- **Amplia capacidad de adaptación**
+- **Carnet de conducir tipo B (coche)**
+- **Carnet de prevención de riesgos laborales**
