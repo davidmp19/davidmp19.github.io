@@ -24,12 +24,12 @@ Prácticas en Taller de Coches
 - Interacción con clientes para comprender sus necesidades y proporcionar servicio al cliente
 - Adquisición de habilidades en el uso de herramientas y conocimiento de sistemas automotrices
 
+**Inetum** (Abril/2024 - Junio/2024)
+
+Puesto: Estudiante en prácticas
+
 ## Proyectos
 **Proyecto 1** ([link al proyecto o repositorio GitHub])
-- Descripción de la tecnología utilizada y en qué consistió el proyecto
-- Logro o resultado alcanzado
-
-**Proyecto 2** ([link al proyecto o repositorio GitHub])
 - Descripción de la tecnología utilizada y en qué consistió el proyecto
 - Logro o resultado alcanzado
 
