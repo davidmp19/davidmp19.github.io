@@ -1,7 +1,7 @@
 # David Menéndez Putteman
 
 ## Resumen
-Como estudiante de desarrollo de aplicaciones web, busco una posición en la que pueda aplicar mis conocimientos y habilidades para diseñar y desarrollar soluciones web innovadoras. Estoy comprometido con el aprendizaje continuo y emocionado por la oportunidad de trabajar en proyectos desafiantes.
+Como desarrollador de aplicaciones web, busco una posición en la que pueda aplicar mis conocimientos y habilidades para diseñar y desarrollar soluciones web innovadoras. Estoy comprometido con el aprendizaje continuo y emocionado por la oportunidad de trabajar en proyectos desafiantes.
 
 ## Habilidades
 - **Lenguajes de Programación:** JavaScript, Java
@@ -11,7 +11,7 @@ Como estudiante de desarrollo de aplicaciones web, busco una posición en la que
 - **Otros:** CSS, HTML
 
 ## Experiencia
-**I.E.S Doctor Fleming** (2021 - Actualmente)  
+**I.E.S Doctor Fleming** (2022 - 2024)  
 Desarrollo de Aplicaciones Web
 - Conocimiento de React, JavaScript, CSS, HTML, Java, Springboot, SQL
 - Uso de IDEs como Eclipse, Visual Studio, MySQL Workbench, SpringTool
@@ -34,7 +34,7 @@ Puesto: Estudiante en prácticas
 - Logro o resultado alcanzado
 
 ## Educación
-**Grado Superior en Desarrollo de Aplicaciones Web** | I.E.S Doctor Fleming | Oviedo, Asturias, España (2021 - Actualmente)
+**Grado Superior en Desarrollo de Aplicaciones Web** | I.E.S Doctor Fleming | Oviedo, Asturias, España (2022 - 2024)
 
 **Bachillerato Científico-Tecnológico y Realización de la EBAU (2021)** | I.E.S Rey Pelayo | Cangas de Onís, Asturias, España (Sep 2019 - Jun 2021)
 
